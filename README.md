@@ -1,6 +1,6 @@
 # Golf Scorecard
 
-A minimalist golfing companion app.
+A minimalist golfing companion app for Android.
 
 <a href="url"><img src="/Golf Scorecard.png" align="left" height="480" width="320" ></a>
 
